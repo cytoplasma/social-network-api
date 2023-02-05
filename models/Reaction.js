@@ -21,7 +21,7 @@ const reactionSchema = new Schema(
     },
   },
   {
-    id: false,
+    _id: false,
   }
 );
 
